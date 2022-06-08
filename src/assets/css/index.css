@@ -1,0 +1,129 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.font-link {
+  font-family: 'EB Garamond', serif;
+}
+
+a:hover {
+  color: gray;
+  font-size: 18px;
+}
+
+/* Jumbotron */
+.dreamland-text {
+  font-weight: 800;
+  font-size: 72px;
+  color: #3F6745;
+}
+
+.jogja-text {
+  font-weight: 300;
+  margin-left: 125px;
+  font-size: 48px;
+  color: #3F6745;
+}
+
+.health-text {
+  font-weight: 800;
+  margin-left: 225px;
+  font-size: 72px;
+  color: #3F6745;
+}
+
+.text-tengah {
+  margin-left: 336px;
+  margin-right: 336px;
+}
+
+.text-about {
+  margin-left: 83px;
+  margin-top: 50px;
+}
+
+/* Carousel */
+.carousel {
+  width: 1195px;
+  height: 672px;
+}
+
+.button-carousel-kiri {
+  margin-left: -58px;
+}
+
+.button-carousel-kanan {
+  margin-right: -58px;
+}
+
+/* Concept */
+.card-left-concept {
+  margin-right: 80px;
+}
+
+.img-concept {
+  margin-top: -90px;
+  width: 395px;
+}
+
+.concept {
+  margin-top: 110px;
+  margin-bottom: 50px;
+  height: 436px;
+  background-color: #F5F5F5;
+}
+
+.card-concept {
+  height: 384px;
+}
+
+/* Facility */
+.facility {
+  height: 720px;
+  background-color: #3F6745;
+}
+
+.text-facility {
+  margin-left: 83px;
+  margin-top: 50px;
+}
+
+.text-sub-facility {
+  margin-top: 83px;
+}
+
+.card-facility {
+  border-radius: 20px;
+}
+
+/* Units */
+.units {
+  height: 410px;
+}
+
+.text-units {
+  margin-left: 83px;
+  margin-top: 50px;
+}
+
+.text-unit-sub {
+  margin-left: 83px;
+}
+
+.card-units {
+  margin-top: 120px;
+}
+
+/* FAQ */
+.card-faq {
+  border-radius: 30px;
+  background-color: #FFFFFF;
+  width: 536px;
+  height: 192px;
+  margin-left: 20px;
+}
